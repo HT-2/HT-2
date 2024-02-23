@@ -1,5 +1,5 @@
 
-### <h1>Hello fellas, This is Hetal Tiwari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+### <h1>Hi, This is Hetal Tiwari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ### 👤 About me: 
 - Data Analytics professional with over 2 years of experience leveraging data to drive insights. From building AI-powered social media tools to optimizing ETL pipelines, I'm a data enthusiast who thrives on turning insights into action.
