@@ -12,14 +12,6 @@
 -Developed machine learning models for content recommendation and sentiment analysis, improving MOOC completion rates by 25%.
 -Passionate about mentoring and research, currently exploring the impact of education on career outcomes.
 
-### 👩🏻‍💻 Skills I bring to the table:
-
--Programming Languages/Databases/Datawarehouses: C/C++, Python, R, HTML, CSS, React, Unix, Powershell,
-SQL, Snowflake
--Libraries/Frameworks: Numpy, Pandas, Scikit-Learn, Keras, Matplotlib, Seaborn, ggplot, Gensim, Spacy, Haystack, PySpark
--Tools: ETL, IBM Datastage, Qlikview, PowerBI, Tableau, Spark, SPSS, Jenkins, JIRA, AutoIt, AWS, Azure, Git, Excel
--Experienced in: ETL, data mining, machine learning, natural language processing, data visualization, and project management.
-
 ### 💻 I'm Currently Working On
 - Transformative QA system using the Haystack framework
 
@@ -27,6 +19,17 @@ SQL, Snowflake
 - Driven by a thirst for innovation and a desire to solve real-world problems with data.
 - Adept at collaborating across teams and communicating effectively with technical and non-technical audiences.
 - Lifelong learner with a passion for continuous improvement.
+
+### 👩🏻‍💻 Skills I bring to the table:
+
+-Programming Languages/Databases/Datawarehouses: C/C++, Python, R, HTML, CSS, React, Unix, Powershell,
+SQL, Snowflake
+
+-Libraries/Frameworks: Numpy, Pandas, Scikit-Learn, Keras, Matplotlib, Seaborn, ggplot, Gensim, Spacy, Haystack, PySpark
+
+-Tools: ETL, IBM Datastage, Qlikview, PowerBI, Tableau, Spark, SPSS, Jenkins, JIRA, AutoIt, AWS, Azure, Git, Excel
+
+-Experienced in: ETL, data mining, machine learning, natural language processing, data visualization, and project management.
 
 <h3 align="center">🗣 Languages, Tools and Frameworks</h3>
 
