@@ -30,7 +30,7 @@ SQL, Snowflake
 
 <h3 align="center">🗣 Languages, Tools and Frameworks</h3>
 
-<p align="center"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> <img src = "https://img.icons8.com/color/50/000000/c-programming.png" alt="C" width = 40, height = 40> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="40" height="40"> </p>
+<p align="center"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/> <img src = "https://img.icons8.com/color/50/000000/c-programming.png" alt="C" width = 40, height = 40> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="R" width="40" height="40"> <img src = "https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="HTML CSS JS" width="40" height="40"> </p>
 
 <h2 align="center">Feel free to Connect 👥 with me on</h2>
 
