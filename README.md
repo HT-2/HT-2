@@ -2,7 +2,7 @@
 ### <h1>Hi, This is Hetal Tiwari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ### 👤 About me: 
-- Data Analytics professional with over 2 years of experience leveraging data to drive insights. From building AI-powered social media tools to optimizing ETL pipelines, I'm a data enthusiast who thrives on turning insights into action.
+- Data Engineering professional with over 2 years of experience leveraging data to drive insights. From building AI-powered social media tools to optimizing ETL pipelines to creating dashboards, I'm a data enthusiast who thrives on turning insights into action.
 - I am passionate about **Data Science**, **Data Analysis** and **Full Stack Web & App Development**
 
 ### 📈 My journey:
@@ -20,13 +20,18 @@
 - Adept at collaborating across teams and communicating effectively with technical and non-technical audiences.
 - Lifelong learner with a passion for continuous improvement.
 
-### 👩🏻‍💻 Skills I bring to the table:
+### 👩🏻‍💻 My Core Competencies/Skills :
 
-- Programming Languages/Databases/Datawarehouses: C/C++, Python, R, HTML, CSS, React, Unix, Powershell,
-SQL, Snowflake
-- Libraries/Frameworks: Numpy, Pandas, Scikit-Learn, Keras, Matplotlib, Seaborn, ggplot, Gensim, Spacy, Haystack, PySpark
-- Tools: ETL, IBM Datastage, Qlikview, PowerBI, Tableau, Spark, SPSS, Jenkins, JIRA, AutoIt, AWS, Azure, Git, Excel
-- Experienced in: ETL, data mining, machine learning, natural language processing, data visualization, and project management.
+Data Engineering - (ETL, ELT, Airflow, PySpark, DataBricks, DBT) 
+Database/ Datawarehouse - (S3, Snowflake, Redshift, DB2) 
+Data Visualization - (Tableau, PowerBI, Qliksense)
+Programming - (Python, Java, SQL) 
+Cloud - (AWS - Glue, Athena, Step Functions, EMR, EC2, Lambda, CodePipeline)
+Data Science, Machine Learning, and NLP - (Numpy, Pandas, Sklearn, Keras, Haystack) 
+DevOps -(CI/CD, Docker, Kubernetes, Terraform) 
+Version Control & Project Management - (Git, JIRA, Agile, SCRUM)
+Technologies: Data Modeling, Data Mining, Data Visualization, Data warehousing, Big Data, Statistical Analysis, System Design, Testing, Application Development
+Soft skills: Communication skills, Attention to Detail, Team Player, Leadership 
 
 <h3 align="center">🗣 Languages, Tools and Frameworks</h3>
 
