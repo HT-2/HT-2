@@ -22,16 +22,16 @@
 
 ### 👩🏻‍💻 My Core Competencies/Skills :
 
-Data Engineering - (ETL, ELT, Airflow, PySpark, DataBricks, DBT) 
-Database/ Datawarehouse - (S3, Snowflake, Redshift, DB2) 
-Data Visualization - (Tableau, PowerBI, Qliksense)
-Programming - (Python, Java, SQL) 
-Cloud - (AWS - Glue, Athena, Step Functions, EMR, EC2, Lambda, CodePipeline)
-Data Science, Machine Learning, and NLP - (Numpy, Pandas, Sklearn, Keras, Haystack) 
-DevOps -(CI/CD, Docker, Kubernetes, Terraform) 
-Version Control & Project Management - (Git, JIRA, Agile, SCRUM)
-Technologies: Data Modeling, Data Mining, Data Visualization, Data warehousing, Big Data, Statistical Analysis, System Design, Testing, Application Development
-Soft skills: Communication skills, Attention to Detail, Team Player, Leadership 
+- Data Engineering - (ETL, ELT, Airflow, PySpark, DataBricks, DBT) 
+- Database/ Datawarehouse - (S3, Snowflake, Redshift, DB2) 
+- Data Visualization - (Tableau, PowerBI, Qliksense)
+- Programming - (Python, Java, SQL) 
+- Cloud - (AWS - Glue, Athena, Step Functions, EMR, EC2, Lambda, CodePipeline)
+- Data Science, Machine Learning, and NLP - (Numpy, Pandas, Sklearn, Keras, Haystack) 
+- DevOps -(CI/CD, Docker, Kubernetes, Terraform) 
+- Version Control & Project Management - (Git, JIRA, Agile, SCRUM)
+- Technologies: Data Modeling, Data Mining, Data Visualization, Data warehousing, Big Data, Statistical Analysis, System Design, Testing, Application Development
+- Soft skills: Communication skills, Attention to Detail, Team Player, Leadership 
 
 <h3 align="center">🗣 Languages, Tools and Frameworks</h3>
 
