@@ -3,29 +3,26 @@
 
 ### 👤 About me: 
 - Data Engineering professional with over 2 years of experience leveraging data to drive insights. From building AI-powered social media tools to optimizing ETL pipelines to creating dashboards, I'm a data enthusiast who thrives on turning insights into action.
-- I am passionate about **Data Science**, **Data Analysis** and **Full Stack Web & App Development**
+- I am passionate about **Data Engineering**, **Data Analysis** and **Data Science**
 
 ### 📈 My journey:
 - Currently pursuing a Master's in Computer Science.
-- Proven track record as a data analyst at Tata Consultancy Services, boosting customer engagement and reducing data processing times.
+- Proven track record as a data engineer/ data analyst at Tata Consultancy Services, boosting customer engagement and reducing data processing times.
 - Built and deployed an AI-powered social media monitoring tool during my internship at Haix.ai, increasing user satisfaction by 90%.
 - Developed machine learning models for content recommendation and sentiment analysis, improving MOOC completion rates by 25%.
-- Passionate about mentoring and research, currently exploring the impact of education on career outcomes.
-
-### 💻 I'm Currently Working On
-- Transformative QA system using the Haystack framework
+- Passionate about mentoring and research. Served as a Tutor at California State University, Fullerton, helping students in STEM disciplines like Math, Statistics, Chemistry, and Physics. 
 
 ### 🎯 What sets me apart
-- Driven by a thirst for innovation and a desire to solve real-world problems with data.
+- Driven by a desire to solve real-world problems with data.
 - Adept at collaborating across teams and communicating effectively with technical and non-technical audiences.
 - Lifelong learner with a passion for continuous improvement.
 
 ### 👩🏻‍💻 My Core Competencies/Skills :
 
-- Data Engineering - (ETL, ELT, Airflow, PySpark, DataBricks, DBT) 
+- Data Engineering - (ETL, ELT, Apache Airflow, PySpark, DBT) 
 - Database/ Datawarehouse - (S3, Snowflake, Redshift, DB2) 
 - Data Visualization - (Tableau, PowerBI, Qliksense)
-- Programming - (Python, Java, SQL) 
+- Programming - (Python, SQL) 
 - Cloud - (AWS - Glue, Athena, Step Functions, EMR, EC2, Lambda, CodePipeline)
 - Data Science, Machine Learning, and NLP - (Numpy, Pandas, Sklearn, Keras, Haystack) 
 - DevOps -(CI/CD, Docker, Kubernetes, Terraform) 
